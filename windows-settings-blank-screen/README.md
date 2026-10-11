@@ -24,6 +24,18 @@ The Settings app is the **`SystemSettings.exe`** program, registered as the buil
 
 ---
 
+## Easiest way: one double-click
+
+1. Download this folder to your PC and keep all the files together.
+2. Double-click **`Fix-Settings.cmd`** and click **Yes** on the administrator prompt.
+3. Answer **Y** or **N** to each question.
+
+It runs Steps 1–5 below for you, one at a time. After each repair it opens Settings and asks if it works now, and it stops as soon as you say **Y**. It never deletes files, uninstalls apps or edits the registry. Logs are saved to your Desktop.
+
+If Settings is still blank afterwards, continue from **Step 6** below.
+
+---
+
 ## Step 0: Quick checks (no admin, no risk)
 
 1. **Restart the PC** (Start → Power → *Restart*, not *Shut down*). Fast Startup means "Shut down" doesn't clear a half-installed update. Then test Settings.
